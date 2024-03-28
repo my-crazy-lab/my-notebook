@@ -1,7 +1,4 @@
-# Note
-- Bytes are always transmitted starting from the high order or most significant bit.
-
-# Introduction 
+## Introduction 
 - LAN 
 - MAN 
 - WAN 
@@ -39,6 +36,13 @@
   - a packet is a finit sequence of bytes, transport by network layer inside packets
 - application layer
   - exchanges application data unit
+
+## Application layer
+- Big-Endians & Little-Endians
+- ASCII
+- BNF
+  - use to define programming language (can define messages exchanges between L7)
+  - 
 
 
 
