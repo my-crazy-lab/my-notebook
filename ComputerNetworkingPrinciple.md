@@ -1,5 +1,7 @@
-# Introduction 
+# Note
+- Bytes are always transmitted starting from the high order or most significant bit.
 
+# Introduction 
 - LAN 
 - MAN 
 - WAN 
@@ -14,7 +16,6 @@
 - anycast 
 
 ## Services and protocols 
-
 - a user interacts with a service through a SERVICE ACCESS POINT 
 - interaction between user and service by using primitives
 - connectionless service: UDP 
