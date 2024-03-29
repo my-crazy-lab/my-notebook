@@ -1,3 +1,18 @@
+## Read later
+- [The big-endians and the little-endians](https://www.rfc-editor.org/ien/ien137.txt)
+- [BNF](https://datatracker.ietf.org/doc/html/rfc5234.html)
+- [The Domain Naming Convention for Internet User Applications](https://datatracker.ietf.org/doc/html/rfc819.html)
+- [DNS performance](https://ieeexplore.ieee.org/document/1041066)
+- [DNS security](https://datatracker.ietf.org/doc/html/rfc4033.html)
+- [Internet mail architecture](https://datatracker.ietf.org/doc/html/rfc5598.html)
+- [Internet message format](https://datatracker.ietf.org/doc/html/rfc5322.html)
+- [MIME 1](https://datatracker.ietf.org/doc/html/rfc2045.html)
+- [MIME 2](https://datatracker.ietf.org/doc/html/rfc2046.html)
+- [base16, base32, base64](https://datatracker.ietf.org/doc/html/rfc4648.html)
+- [SMTP](https://datatracker.ietf.org/doc/html/rfc821.html)
+- [IMAP](https://datatracker.ietf.org/doc/html/rfc3501.html)
+- [POP](https://datatracker.ietf.org/doc/html/rfc1939.html)
+
 ## Introduction 
 - LAN 
 - MAN 
@@ -42,7 +57,10 @@
 - ASCII
 - BNF
   - use to define programming language (can define messages exchanges between L7)
-  - 
+- Electronic mail
+  - SMTP
+  - POP
+  - IMAP
 
 
 
