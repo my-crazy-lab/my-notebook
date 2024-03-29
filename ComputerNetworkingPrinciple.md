@@ -12,6 +12,11 @@
 - [SMTP](https://datatracker.ietf.org/doc/html/rfc821.html)
 - [IMAP](https://datatracker.ietf.org/doc/html/rfc3501.html)
 - [POP](https://datatracker.ietf.org/doc/html/rfc1939.html)
+- [HTTP](https://datatracker.ietf.org/doc/html/rfc2616.html)
+- [FTP](https://datatracker.ietf.org/doc/html/rfc959.html)
+- [SSH](https://datatracker.ietf.org/doc/html/rfc4251.html)
+- [URI](https://datatracker.ietf.org/doc/html/rfc3986.html)
+- [Cookie](https://datatracker.ietf.org/doc/html/rfc6265.html)
 
 ## Introduction 
 - LAN 
